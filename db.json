@@ -1,14 +1,10 @@
 {
   "todos": [
     {
-      "text": "my prokjeccs",
-      "title": "projects",
-      "id": 1
-    },
-    {
-      "text": "ndlqw",
-      "title": "dalsijndlq",
-      "id": 2
+      "id": 1,
+      "title": "Project",
+      "description": "Complete All the Projects",
+      "status": "pending"
     }
   ],
   
